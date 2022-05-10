@@ -37,6 +37,7 @@ This project is being used by the Industries:
 
 **Code editor :** Google colaboratory.
 
+**Machine learning :** Supervised learning, Logistic Regression model....
 
 ## Feedback:
 
@@ -49,4 +50,4 @@ What did you learn while building this project? What challenges did you face and
 
 * How to get the data set from the internet?
 * How to insert the data set into the program?
-* How to split the train data and split data?
+* How to split the train data and test data?
