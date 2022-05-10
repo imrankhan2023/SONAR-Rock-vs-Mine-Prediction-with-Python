@@ -41,7 +41,7 @@ This project is being used by the Industries:
 
 ## Feedback:
 
-If you have any feedback, please reach out to us at inandasimrankhan@gmail.com
+If you have any feedback, please reach out to us at inandasimrankhan01mail.com
 
 
 ## Lessons Learned:
